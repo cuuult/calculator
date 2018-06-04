@@ -1,0 +1,24 @@
+section {
+	display: flex;
+    flex-flow: row;
+    margin: 0 auto;
+    width: 500px;
+    justify-content: center;
+    align-items: center;
+}
+
+.input_wrapper {
+	display: flex;
+}
+.button_wrapper {
+	display: flex;
+	margin-top: 20px;
+}
+button {
+	margin: 0 10px;
+}
+.screen {
+	border: 1px solid #000;
+	width: 200px;
+	padding: 10px 10px;
+}
